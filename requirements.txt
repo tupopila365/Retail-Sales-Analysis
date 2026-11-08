@@ -1,0 +1,4 @@
+# Python dependencies used for data cleaning and Excel interoperability
+pandas
+openpyxl
+ipykernel
